@@ -1,0 +1,10 @@
+inventory/
+.terraform/
+backups/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+*.pem
+.env
+.env.*
